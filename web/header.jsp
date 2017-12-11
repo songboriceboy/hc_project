@@ -48,7 +48,7 @@
                     <li class="active"><a href="http://www.clantrip.com">首页 <span class="sr-only">(current)</span></a>
                         <p class="line-top hidden-xs"></p></li>
                     <li>
-                        <a href="http://www.clantrip.com/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=6">政策法规</a>
+                        <a href="info_query.jsp">资料查询</a>
                     </li>
                     <li>
                         <a href="http://www.clantrip.com/index.php?m=content&amp;c=index&amp;a=lists&amp;catid=13">办理指南</a>
